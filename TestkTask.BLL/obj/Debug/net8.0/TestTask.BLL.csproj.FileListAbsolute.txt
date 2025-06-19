@@ -13,3 +13,4 @@ D:\test-task\TestTask\TestkTask.BLL\obj\Debug\net8.0\TestTask.BLL.dll
 D:\test-task\TestTask\TestkTask.BLL\obj\Debug\net8.0\refint\TestTask.BLL.dll
 D:\test-task\TestTask\TestkTask.BLL\obj\Debug\net8.0\TestTask.BLL.pdb
 D:\test-task\TestTask\TestkTask.BLL\obj\Debug\net8.0\ref\TestTask.BLL.dll
+D:\test-task\TestTask\TestkTask.BLL\obj\Debug\net8.0\TestTask.BLL.sourcelink.json

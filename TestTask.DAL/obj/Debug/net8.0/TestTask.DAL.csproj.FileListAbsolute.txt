@@ -26,3 +26,4 @@ D:\test-task\TestTask\TestTask.DAL\obj\Debug\net8.0\refint\TestTask.DAL.dll
 D:\test-task\TestTask\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.pdb
 D:\test-task\TestTask\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.genruntimeconfig.cache
 D:\test-task\TestTask\TestTask.DAL\obj\Debug\net8.0\ref\TestTask.DAL.dll
+D:\test-task\TestTask\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.sourcelink.json

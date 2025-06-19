@@ -121,3 +121,4 @@ D:\test-task\TestTask\TestTask\obj\Debug\net8.0\refint\TestTask.API.dll
 D:\test-task\TestTask\TestTask\obj\Debug\net8.0\TestTask.API.pdb
 D:\test-task\TestTask\TestTask\obj\Debug\net8.0\TestTask.API.genruntimeconfig.cache
 D:\test-task\TestTask\TestTask\obj\Debug\net8.0\ref\TestTask.API.dll
+D:\test-task\TestTask\TestTask\obj\Debug\net8.0\TestTask.API.sourcelink.json
