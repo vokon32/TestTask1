@@ -1,0 +1,15 @@
+D:\test-task\TestTask\TestkTask.BLL\obj\Debug\net8.0\TestTask.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\test-task\TestTask\TestkTask.BLL\obj\Debug\net8.0\TestTask.BLL.AssemblyInfoInputs.cache
+D:\test-task\TestTask\TestkTask.BLL\obj\Debug\net8.0\TestTask.BLL.AssemblyInfo.cs
+D:\test-task\TestTask\TestkTask.BLL\obj\Debug\net8.0\TestTask.BLL.csproj.CoreCompileInputs.cache
+D:\test-task\TestTask\TestkTask.BLL\obj\Debug\net8.0\TestTask.BLL.csproj.AssemblyReference.cache
+D:\test-task\TestTask\TestkTask.BLL\bin\Debug\net8.0\TestTask.BLL.deps.json
+D:\test-task\TestTask\TestkTask.BLL\bin\Debug\net8.0\TestTask.BLL.dll
+D:\test-task\TestTask\TestkTask.BLL\bin\Debug\net8.0\TestTask.BLL.pdb
+D:\test-task\TestTask\TestkTask.BLL\bin\Debug\net8.0\TestTask.DAL.dll
+D:\test-task\TestTask\TestkTask.BLL\bin\Debug\net8.0\TestTask.DAL.pdb
+D:\test-task\TestTask\TestkTask.BLL\obj\Debug\net8.0\TestTask.BLL.csproj.CopyComplete
+D:\test-task\TestTask\TestkTask.BLL\obj\Debug\net8.0\TestTask.BLL.dll
+D:\test-task\TestTask\TestkTask.BLL\obj\Debug\net8.0\refint\TestTask.BLL.dll
+D:\test-task\TestTask\TestkTask.BLL\obj\Debug\net8.0\TestTask.BLL.pdb
+D:\test-task\TestTask\TestkTask.BLL\obj\Debug\net8.0\ref\TestTask.BLL.dll
