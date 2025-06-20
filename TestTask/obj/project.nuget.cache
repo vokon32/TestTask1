@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zhh5WSdixjDuWE7MQVHkwkEuUtW9028zsbl+pKT2WhEAhUCi8xRkUEatu9ZSAI2rSNVSDi3rH4QOWDn/k1F3cQ==",
+  "dgSpecHash": "NGkAVFei3YJ1fvv1WHfIAV+hZzHN5dt9CgU6mSRx+8ecR3loLQwM4wLUSRin+folGKRwWT6V0C5lFYbIwtQEvQ==",
   "success": true,
-  "projectFilePath": "D:\\test-task\\TestTask\\TestTask\\TestTask.API.csproj",
+  "projectFilePath": "D:\\test-task\\test test test\\TestTask1\\TestTask\\TestTask.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Evgeniy\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Evgeniy\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

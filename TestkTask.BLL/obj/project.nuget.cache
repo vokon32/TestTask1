@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "melsDWYtLfLLegvUjge31Ll5rPCURSS9xUS4nyY4kngb2YbJd55jfECiRMkd98aiTU304K0WXBJDKxCOn+kljg==",
+  "dgSpecHash": "NeZvoGGU5VjOpchMChkI3QyazEjNA5z5ZOSGVL/5nNTskN3SXuTwHX9sKiXuJPo+Bn5TBzyhSdE724XVBISBKQ==",
   "success": true,
-  "projectFilePath": "D:\\test-task\\TestTask\\TestkTask.BLL\\TestTask.BLL.csproj",
+  "projectFilePath": "D:\\test-task\\test test test\\TestTask1\\TestkTask.BLL\\TestTask.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Evgeniy\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Evgeniy\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.17\\microsoft.entityframeworkcore.8.0.17.nupkg.sha512",

@@ -9,7 +9,7 @@ namespace TestTask.API.Controllers
 {
     [ApiController]
     [Authorize]
-    [Route("api/v1/[controller]")]
+    [Route("api/[controller]")]
     public class BaseController<T, D> : ControllerBase where T : BaseModel
     {
         private readonly IBaseService<T, D> _service;

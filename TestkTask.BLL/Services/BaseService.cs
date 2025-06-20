@@ -21,12 +21,8 @@ namespace TestTask.BLL.Services
 
         public async Task<IList<D>> All()
         {
-            return await _mapper.ProjectTo<D>(_context.Set<T>()).ToListAsync();
+            return await _mapper.ProjectTo<D>(_context.Set<T>().Where(s => !s.IsDeleted)).ToListAsync();
         }
 
-        public async Task<IList<D>> ReadByFilter(Filter filter)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

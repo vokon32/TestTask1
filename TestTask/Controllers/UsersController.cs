@@ -5,9 +5,9 @@ using TestTask.DAL.Models;
 
 namespace TestTask.API.Controllers
 {
-    public class UserController : BaseController<User, UserDto>
+    public class UsersController : BaseController<User, UserDto>
     {
-        public UserController(IUserService service) : base(service)
+        public UsersController(IUserService service) : base(service)
         {
         }
     }

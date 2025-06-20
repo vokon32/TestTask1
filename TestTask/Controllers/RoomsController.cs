@@ -6,11 +6,11 @@ using TestTask.DAL.Models;
 
 namespace TestTask.API.Controllers
 {
-    public class RoomController : BaseController<Room, RoomDto>
+    public class RoomsController : BaseController<Room, RoomDto>
     {
         private readonly IRoomService _service;
 
-        public RoomController(IRoomService service) : base(service)
+        public RoomsController(IRoomService service) : base(service)
         {
             _service = service;
         }

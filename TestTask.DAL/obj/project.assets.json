@@ -2156,11 +2156,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\test-task\\TestTask\\TestTask.DAL\\TestTask.DAL.csproj",
+      "projectUniqueName": "D:\\test-task\\test test test\\TestTask1\\TestTask.DAL\\TestTask.DAL.csproj",
       "projectName": "TestTask.DAL",
-      "projectPath": "D:\\test-task\\TestTask\\TestTask.DAL\\TestTask.DAL.csproj",
+      "projectPath": "D:\\test-task\\test test test\\TestTask1\\TestTask.DAL\\TestTask.DAL.csproj",
       "packagesPath": "C:\\Users\\Evgeniy\\.nuget\\packages\\",
-      "outputPath": "D:\\test-task\\TestTask\\TestTask.DAL\\obj\\",
+      "outputPath": "D:\\test-task\\test test test\\TestTask1\\TestTask.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

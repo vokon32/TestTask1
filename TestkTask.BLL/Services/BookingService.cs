@@ -54,5 +54,22 @@ namespace TestTask.BLL.Services
 
             return await _context.SaveChangesAsync() > 0;
         }
+
+        public async Task<bool> Delete(Guid id)
+        {
+            var booking = await _context.Bookings.Where(b => !b.IsDeleted).FirstOrDefaultAsync();
+
+            if (booking is null)
+            {
+                throw new Exception("The Booking was not found!");
+            }
+
+            booking.IsDeleted = true;
+            booking.DateUpdated = DateTime.UtcNow;
+
+            _context.Bookings.Update(booking);
+
+            return await _context.SaveChangesAsync() > 0;
+        }
     }
 }

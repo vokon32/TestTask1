@@ -27,3 +27,18 @@ D:\test-task\TestTask\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.pdb
 D:\test-task\TestTask\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.genruntimeconfig.cache
 D:\test-task\TestTask\TestTask.DAL\obj\Debug\net8.0\ref\TestTask.DAL.dll
 D:\test-task\TestTask\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.sourcelink.json
+D:\test-task\test test test\TestTask1\TestTask.DAL\bin\Debug\net8.0\TestTask.DAL.deps.json
+D:\test-task\test test test\TestTask1\TestTask.DAL\bin\Debug\net8.0\TestTask.DAL.runtimeconfig.json
+D:\test-task\test test test\TestTask1\TestTask.DAL\bin\Debug\net8.0\TestTask.DAL.dll
+D:\test-task\test test test\TestTask1\TestTask.DAL\bin\Debug\net8.0\TestTask.DAL.pdb
+D:\test-task\test test test\TestTask1\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.csproj.AssemblyReference.cache
+D:\test-task\test test test\TestTask1\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\test-task\test test test\TestTask1\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.AssemblyInfoInputs.cache
+D:\test-task\test test test\TestTask1\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.AssemblyInfo.cs
+D:\test-task\test test test\TestTask1\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.csproj.CoreCompileInputs.cache
+D:\test-task\test test test\TestTask1\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.sourcelink.json
+D:\test-task\test test test\TestTask1\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.dll
+D:\test-task\test test test\TestTask1\TestTask.DAL\obj\Debug\net8.0\refint\TestTask.DAL.dll
+D:\test-task\test test test\TestTask1\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.pdb
+D:\test-task\test test test\TestTask1\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.genruntimeconfig.cache
+D:\test-task\test test test\TestTask1\TestTask.DAL\obj\Debug\net8.0\ref\TestTask.DAL.dll

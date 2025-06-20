@@ -967,11 +967,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\test-task\\TestTask\\TestkTask.BLL\\TestTask.BLL.csproj",
+      "projectUniqueName": "D:\\test-task\\test test test\\TestTask1\\TestkTask.BLL\\TestTask.BLL.csproj",
       "projectName": "TestTask.BLL",
-      "projectPath": "D:\\test-task\\TestTask\\TestkTask.BLL\\TestTask.BLL.csproj",
+      "projectPath": "D:\\test-task\\test test test\\TestTask1\\TestkTask.BLL\\TestTask.BLL.csproj",
       "packagesPath": "C:\\Users\\Evgeniy\\.nuget\\packages\\",
-      "outputPath": "D:\\test-task\\TestTask\\TestkTask.BLL\\obj\\",
+      "outputPath": "D:\\test-task\\test test test\\TestTask1\\TestkTask.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -993,8 +993,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\test-task\\TestTask\\TestTask.DAL\\TestTask.DAL.csproj": {
-              "projectPath": "D:\\test-task\\TestTask\\TestTask.DAL\\TestTask.DAL.csproj"
+            "D:\\test-task\\test test test\\TestTask1\\TestTask.DAL\\TestTask.DAL.csproj": {
+              "projectPath": "D:\\test-task\\test test test\\TestTask1\\TestTask.DAL\\TestTask.DAL.csproj"
             }
           }
         }
